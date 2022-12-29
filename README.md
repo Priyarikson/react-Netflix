@@ -1,3 +1,14 @@
+![Netflix-Homepage!](/Users/priyankaraju/repos/netflix/public/images/Screenshot 2022-12-29 at 11.07.50 AM.png)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
