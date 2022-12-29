@@ -1,4 +1,4 @@
-![Netflix-Homepage!](/Users/priyankaraju/repos/netflix/public/images/screenshot.png)
+![Netflix-Homepage!](screenshot.png)
 
 
 
